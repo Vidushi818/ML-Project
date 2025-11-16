@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ML-Project/mlruns/0/d07484670789403e9518c76f447c2b01/artifacts
+end_time: 1763271069553
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d07484670789403e9518c76f447c2b01
+run_name: exultant-smelt-227
+run_uuid: d07484670789403e9518c76f447c2b01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763271053017
+status: 3
+tags: []
+user_id: Vidushi

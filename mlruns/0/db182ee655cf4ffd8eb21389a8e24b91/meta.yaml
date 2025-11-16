@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ML-Project/mlruns/0/db182ee655cf4ffd8eb21389a8e24b91/artifacts
+end_time: 1763270984880
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db182ee655cf4ffd8eb21389a8e24b91
+run_name: omniscient-lynx-919
+run_uuid: db182ee655cf4ffd8eb21389a8e24b91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763270976419
+status: 3
+tags: []
+user_id: Vidushi
